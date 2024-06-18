@@ -1,0 +1,1 @@
+Cut config.env file from this backend folder and make a folder in backend and paste that file that folder
