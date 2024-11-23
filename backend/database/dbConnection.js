@@ -9,6 +9,6 @@ export const dbConnection = () => {
       console.log("Connected to MongoDB.");
     })
     .catch((err) => {
-      console.log(`Some Error occured. ${err}`);
+      console.log(`Some Error occured in db. ${err}`);
     });
 };
